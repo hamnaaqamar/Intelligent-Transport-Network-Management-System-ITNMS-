@@ -266,11 +266,6 @@ itnms.exe
 - GUI implementation
 - Database integration
 
-## Author
-
-CS221 Semester Project
-Intelligent Transport Network Management System
-
 ## License
 
 This project is created for educational purposes as part of CS221 Data Structures and Algorithms course.
@@ -283,8 +278,4 @@ This project is created for educational purposes as part of CS221 Data Structure
 - Input validation included for user safety
 - Modular design allows easy extension
 
----
 
-**For questions or issues, please refer to the code comments or contact the development team.**
-
-# Intelligent-Transport-Network-Management-System-ITNMS-
